@@ -1,0 +1,26 @@
+
+GET https://openlibrary.org/works/OL61215W.json
+200
+215 ms
+
+Request Headers
+User-Agent: PostmanRuntime/7.51.0 - Client software
+Accept: */* - Accept all content types
+Cache-Control: no-cache - Don't cache data
+Postman-Token: f52c9424-ae04-4ca9-b168-ddb130c17f89 - token id
+Host: openlibrary.org - Server name
+Accept-Encoding: gzip, deflate, br - acceptable compression data formats
+Connection: keep-alive - TCP
+
+Response Headers
+Server: nginx/1.28.1 - Server software
+Date: Mon, 02 Feb 2026 03:26:48 GMT - Datetime
+Content-Type: application/json - Data format
+Transfer-Encoding: chunked - Data sent in chunks
+Connection: keep-alive - TCP
+access-control-allow-origin: * - allow requests from any domain 
+access-control-allow-method: GET, OPTIONS - acceptable request types
+access-control-max-age: 86400 - lifetime of cache
+x-ol-stats: "MC 2 0.001 TT 0 0.003" - stats
+Referrer-Policy: no-referrer-when-downgrade - privacy setting 
+Content-Encoding: gzip - response data compression format

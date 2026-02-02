@@ -1,6 +1,5 @@
-let chai = require('chai');
-let fib = require('../utils/fib');
-let expect = chai.expect;
+import { expect } from 'chai';
+import fib from '../utils/fib.js';  // Add .js extension
 
 describe("fib tests", () => {
     it("should throw an error for parameter other than integer", () => {

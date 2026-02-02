@@ -24,4 +24,4 @@
     return fib(target, newCollection);
 };
 
- module.exports = fib;
+export default fib;

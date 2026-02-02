@@ -1,6 +1,5 @@
-let chai = require('chai');
-let getBooks = require('../utils/googlebooks');
-let expect = chai.expect;
+import { expect } from 'chai';
+import getBooks from '../utils/googlebooks.js';  // Note the .js extension
 let patt = /turing/i;
 
 //Our parent block

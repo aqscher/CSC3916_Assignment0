@@ -1,6 +1,7 @@
 {
   "name": "gbooks",
   "version": "1.0.0",
+  "type": "module",
   "description": "Google Books",
   "main": "index.js",
   "scripts": {
