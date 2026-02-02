@@ -2,7 +2,7 @@
 ## Purpose
 The purpose of this assignment is to work with Postman become familiar with HTTP, and REST through the testing framework provided by Postman.  Furthermore, to check in your first node program to github.
 
-You will create a Postman collection and create a REST test within the project. You will need to automate each test and include the required asserts (tests) for each request in the validation.
+You will create a Postman collection and create a REST test within the project. You will need to automate each test and include the required asserts (tests) for each request in the validation. test
 
 ## Requirements
 - Sign-up for a free GitHub account: https://github.com/ – Homework assignments will be stored on GitHub
